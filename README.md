@@ -1,3 +1,5 @@
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=davidz627&show_icons=true&hide_rank=true&count_private=true" />
+
 [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/dyzzhu.svg?style=social&label=Follow%20%40dyzzhu)](https://twitter.com/dyzzhu)
 
 ## Hi there 👋 
