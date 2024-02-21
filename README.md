@@ -1,7 +1,9 @@
-[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/dyzzhu.svg?style=social&label=Follow%20%40dyzzhu)](https://twitter.com/dyzzhu)
-
 ## Hi there 👋 
 
-I'm a Software Engineer living in San Francisco!
+Hi there 👋
 
-I currently work at [Brex](https://www.brex.com/) as a Software Engineer building Financial Infrastructure. I used to work on [Kubernetes](https://kubernetes.io/) Storage Lifecycle at Google.
+My name is David Zhu and I'm a Software Engineer / Engineering Manager living in San Francisco.
+
+Professionally, I've worked on [Kubernetes](https://kubernetes.io/) at Google and Billing at [Brex](https://www.brex.com/).
+
+You can find out more about me at my [personal site](https://zhu.haus/)
