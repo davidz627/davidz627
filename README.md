@@ -1,5 +1,3 @@
-## Hi there 👋 
-
 Hi there 👋
 
 My name is David Zhu and I'm a Software Engineer / Engineering Manager living in San Francisco.
